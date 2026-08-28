@@ -9,9 +9,21 @@ This repository contains my solutions to various LeetCode problems. I use this r
 ## 📂 Solutions
 
 | Problem No. | Problem Name | Language |
-|------------:|--------------|----------|
-| 53 | Maximum Subarray | C++ |
-| 523 | Continuous Subarray Sum | C++ |
+|---|---|---|
+| 0002 | Add Two Numbers | C++ |
+| 0053 | Maximum Subarray | C++ |
+| 0523 | Continuous Subarray Sum | C++ |
+| 1 | Two Sum | C++ |
+| 1002 | Find Common Characters | C++ |
+| 1010 | Pairs of Songs With Total Durations Divisible by 60 | C++ |
+| 169 | Majority Element | C++ |
+| 2 | Add Two Numbers | C++ |
+| 215 | Kth Largest Element in an Array | C++ |
+| 242 | Valid Anagram | C++ |
+| 349 | Intersection of Two Arrays | C++ |
+| 454 | 4Sum II | C++ |
+| 560 | Subarray Sum Equals K | C++ |
+| 974 | Subarray Sums Divisible by K | C++ |
 
 ---
 
