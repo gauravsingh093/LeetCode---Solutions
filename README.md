@@ -1,72 +1,50 @@
-\# 🚀 LeetCode Solutions
+# 🚀 LeetCode Solutions
 
+Welcome to my **LeetCode Solutions** repository! 👋
 
+This repository contains my solutions to various LeetCode problems. I use this repository to track my progress and improve my problem-solving skills.
 
-Welcome to my LeetCode Solutions repository! 👋
+---
 
-
-
-This repository contains my solutions to various LeetCode problems.
-
-
-
-\## 📂 Solutions
-
-
+## 📂 Solutions
 
 | Problem No. | Problem Name | Language |
-
-|------------|--------------|----------|
-
+|------------:|--------------|----------|
 | 53 | Maximum Subarray | C++ |
-
 | 523 | Continuous Subarray Sum | C++ |
 
+---
 
+## 🛠️ Language Used
 
-\## 🛠️ Language Used
+- C++
 
+---
 
-
-\- C++
-
-
-
-\## 🎯 Goal
-
-
+## 🎯 Goals
 
 My goal is to regularly solve LeetCode problems and improve my:
 
+- 🧠 Data Structures
+- ⚡ Algorithms
+- 💡 Problem Solving Skills
+- 🏆 Competitive Programming Skills
 
+---
 
-\- Data Structures
+## 📁 Repository Structure
 
-\- Algorithms
+Each problem has its own folder:
 
-\- Problem Solving Skills
-
-\- Competitive Programming Skills
-
-
-
-\## 📌 Repository Structure
-
-
-
-Each problem has its own folder containing:
-
-
-
-\- `solution.cpp` — Solution code
-
-\- `README.md` — Problem explanation
-
-
-
-\---
-
-
-
-⭐ Feel free to explore the solutions!
-
+```text
+LeetCode---Solutions/
+│
+├── 0053-maximum-subarray/
+│   ├── solution.cpp
+│   └── README.md
+│
+├── 0523-continuous-subarray-sum/
+│   ├── solution.cpp
+│   └── README.md
+│
+└── README.md
