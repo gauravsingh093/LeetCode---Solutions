@@ -78,12 +78,15 @@ LeetCode---Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0525-contiguous-array/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0525-contiguous-array/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0525-contiguous-array/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 <!---LeetCode Topics End-->
