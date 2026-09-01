@@ -74,4 +74,16 @@ LeetCode---Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0525-contiguous-array/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0525-contiguous-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0525-contiguous-array/) | Medium |
 <!---LeetCode Topics End-->
