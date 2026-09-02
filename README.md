@@ -78,6 +78,7 @@ LeetCode---Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0525-contiguous-array/) | Medium |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -88,5 +89,6 @@ LeetCode---Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0525-contiguous-array/) | Medium |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 <!---LeetCode Topics End-->
