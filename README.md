@@ -104,8 +104,14 @@ LeetCode---Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
