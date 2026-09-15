@@ -100,4 +100,12 @@ LeetCode---Solutions/
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0125-valid-palindrome/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/gauravsingh093/LeetCode---Solutions/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
