@@ -23,7 +23,8 @@ This repository contains my solutions to various LeetCode problems. I use this r
 | 349 | Intersection of Two Arrays | C++ |
 | 454 | 4Sum II | C++ |
 | 560 | Subarray Sum Equals K | C++ |
-| 974 | Subarray Sums Divisible by K | C++ |
+| 974 | Subarray Sums Divisible by K | C++ 
+| 035 | Search Insert Position | C++ |
 
 ---
 
